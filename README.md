@@ -5,18 +5,21 @@
 shell-novice
 ============
 
-An introduction to the Unix shell for people who have never used the command line before.
-Please see <https://swcarpentry.github.io/shell-novice/> for a rendered version of this material,
+An introduction to the Unix shell for STANFORD CORES. Adpated form and see
+Please see <https://swcarpentry.github.io/shell-novice/> for a rendered version of the original lesson. Please see https://zyzhang1992.github.io/Stanford-CORES-Unix-command-line/ for a rendered version of this page. 
 [the lesson template documentation][lesson-example]
 for instructions on formatting, building, and submitting material,
 or run `make` in this directory for a list of helpful commands.
 
-## Maintainers
+## Maintainers of the original lessons
 
 * [Gabriel A. Devenyi][devenyi_gabriel]
 * [Colin Morris][colin_morris]
 * [Gerard Capes][gerard_capes]
 * [Jacob Deppen][jacob_deppen]
+
+## Author of the current workshop: 
+* [Zhiyong Zhang][Zhiyong_Zhang]
 
 ## Contributing
 
@@ -25,6 +28,7 @@ If you would like to contribute to the development of the lesson, you can find d
 Contributions can come in many different forms: typo and formatting fixes, additions or subtractions
 of content, suggestions, clarifications, and more.
 
+[Zhiyong_Zhang]: https://www.linkedin.com/in/zhiyong-zhang-036a7b4/
 [devenyi_gabriel]: http://software-carpentry.org/team/#devenyi_gabriel
 [colin_morris]: https://github.com/colinmorris
 [gerard_capes]: https://carpentries.org/instructors/#capes_gerard
